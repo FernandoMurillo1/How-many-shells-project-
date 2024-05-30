@@ -1,4 +1,4 @@
-# How many shells project
+# How Many Shells Project
 
 ## Objective 
 
